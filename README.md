@@ -1,4 +1,4 @@
 # FriendsLSTM
-LSTM model to predict the correct speaker from TV Show Friends utterances.
+LSTM model to predict speakers from TV Show Friends utterances.
 
 Accuracy : 20%
